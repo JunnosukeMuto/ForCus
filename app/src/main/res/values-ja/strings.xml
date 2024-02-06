@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">ホーム</string>
+    <string name="schedule">スケジュール</string>
+    <string name="settings">設定</string>
+    <string name="new_schedule">新しいスケジュール</string>
+    <string name="detox_time">使用禁止時間</string>
+    <string name="app_block">アプリのブロック</string>
+    <string name="app_block_desc">あなたの注意をそらすアプリをブロックして、生産性を向上させます。</string>
+    <string name="detox_time_desc">スマホの起動をブロックすることで、スマホ依存から一時的に解放されます。</string>
+    <string name="select_a_feature">1. 機能を選ぶ</string>
+    <string name="edit_schedule">2. スケジュールを設定</string>
+    <string name="from">開始</string>
+    <string name="to">終了</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="select_time">時間を選択</string>
+    <string name="short_mon">月</string>
+    <string name="short_tue">火</string>
+    <string name="short_wed">水</string>
+    <string name="short_thu">木</string>
+    <string name="short_fri">金</string>
+    <string name="short_sat">土</string>
+    <string name="short_sun">日</string>
+    <string name="run_once">一度だけ</string>
+    <string name="mon">月</string>
+    <string name="tue">火</string>
+    <string name="wed">水</string>
+    <string name="thu">木</string>
+    <string name="fri">金</string>
+    <string name="sat">土</string>
+    <string name="sun">日</string>
+    <string name="everyday">毎日</string>
+    <string name="was_blocked">がブロックされました</string>
+    <string name="close">閉じる</string>
+</resources>

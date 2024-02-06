@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">ForCus</string>
+    <string name="home">Home</string>
+    <string name="schedule">Schedule</string>
+    <string name="settings">Settings</string>
+    <string name="new_schedule">New Schedule</string>
+    <string name="app_block">App Block</string>
+    <string name="detox_time">Detox Time</string>
+    <string name="app_block_desc">Deacrivate distractive apps to stay focused.</string>
+    <string name="detox_time_desc">Block phone activation, and temporarily free yourself from phone addiction.</string>
+    <string name="select_a_feature">1. Select a feature</string>
+    <string name="edit_schedule">2. Edit schedule</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_time">Select time</string>
+    <string name="short_mon">M</string>
+    <string name="short_tue">T</string>
+    <string name="short_wed">W</string>
+    <string name="short_thu">T</string>
+    <string name="short_fri">F</string>
+    <string name="short_sat">S</string>
+    <string name="short_sun">S</string>
+    <string name="run_once">Run Once</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="everyday">Everyday</string>
+    <string name="was_blocked">was blocked</string>
+    <string name="close">Close</string>
+</resources>
